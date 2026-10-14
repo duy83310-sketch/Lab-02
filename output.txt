@@ -1,0 +1,6 @@
+Alice	Dan (1), Eve (1)
+Bob	Eve (2), Frank (1)
+Carol	Dan (2)
+Dan	Carol (2), Alice (1)
+Eve	Bob (2), Alice (1)
+Frank	Bob (1), Eve (1)

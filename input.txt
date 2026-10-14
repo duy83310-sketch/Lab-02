@@ -1,0 +1,6 @@
+Alice	Bob,Carol
+Bob	Alice,Carol,Dan
+Carol	Alice,Bob,Eve
+Dan	Bob,Eve,Frank
+Eve	Carol,Dan
+Frank	Dan
